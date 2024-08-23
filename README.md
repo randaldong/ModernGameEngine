@@ -5,11 +5,11 @@ Learning notes for GAMES 104.
 
 ## 1. Introduction
 
-Lecture 1: [Lecture 01_Overview of Game Engine](./Lecture/Lecture 01_Overview of Game Engine.pdf)
+Lecture 1: [Lecture 01_Overview of Game Engine](<./Lecture/Lecture 01_Overview of Game Engine.pdf>)
 
 Video: [01.游戏引擎导论 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1oU4y1R7Km/?spm_id_from=333.337.search-card.all.click&vd_source=042a9ec4eda603493ce4ec381912c4e7)
 
-Notes: [1. Introduction](./Notes/1. Introduction.md)
+Notes: [1. Introduction](<./Notes/1. Introduction.md>)
 
 
 
@@ -17,15 +17,15 @@ Notes: [1. Introduction](./Notes/1. Introduction.md)
 
 Lecture 2-3:
 
-- [Lecture 02_Layered Architecture of Game Engine](./Lecture/Lecture 02_Layered Architecture of Game Engine.pdf)
-- [Lecture 03_How to Build a Game World](./Lecture/Lecture 03_How to Build a Game World.pdf)
+- [Lecture 02_Layered Architecture of Game Engine](<./Lecture/Lecture 02_Layered Architecture of Game Engine.pdf>)
+- [Lecture 03_How to Build a Game World](<./Lecture/Lecture 03_How to Build a Game World.pdf>)
 
 Video:
 
 - [02.引擎架构分层 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV12Z4y1B7th/?spm_id_from=pageDriver&vd_source=042a9ec4eda603493ce4ec381912c4e7)
 - [03.如何构建游戏世界 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1YY4y1p74P/?spm_id_from=333.788&vd_source=042a9ec4eda603493ce4ec381912c4e7)
 
-Notes: [2. Basic Elements](./Notes/2. Basic Elements.md)
+Notes: [2. Basic Elements](<./Notes/2. Basic Elements.md>)
 
 
 
