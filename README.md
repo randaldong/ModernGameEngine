@@ -33,10 +33,10 @@ Notes: [2. Basic Elements](<./Notes/2. Basic Elements.md>)
 
 Lecture 4-7: 
 
-- [](./Lecture)
-- [](./Lecture)
-- [](./Lecture)
-- [](./Lecture)
+- [Lecture 04_Rendering on Game Engine_Basics of Game Rendering](<./Lecture/Lecture 04_Rendering on Game Engine_Basics of Game Rendering.pdf>)
+- [Lecture 05_Rendering on Game Engine_Lighting, Materials and Shaders](<./Lecture/Lecture 05_Rendering on Game Engine_Lighting, Materials and Shaders.pdf>)
+- [Lecture 06_Rendering on Game Engine_The Challenges and Fun of Rendering the Beautiful Mother Nature](<./Lecture/Lecture 06_Rendering on Game Engine_The Challenges and Fun of Rendering the Beautiful Mother Nature.pdf>)
+- [Lecture 07_Rendering on Game Engine_Render Pipeline, Post-process and Everything](<./Lecture/Lecture 07_Rendering on Game Engine_Render Pipeline, Post-process and Everything.pdf>)
 
 Video:
 
@@ -45,7 +45,7 @@ Video:
 - []()
 - []()
 
-Notes: [](./Notes)
+Notes: [3. Rendering](<./Notes/3. Rendering.md>)
 
 
 
@@ -53,15 +53,15 @@ Notes: [](./Notes)
 
 Lecture 8-9: 
 
-- [](./Lecture)
-- [](./Lecture)
+- [Lecture 08_Animation System_Basics of Animation Technology](<./Lecture/Lecture 08_Animation System_Basics of Animation Technology.pdf>)
+- [Lecture 09_Animation System_Advanced Animation Technology](<./Lecture/Lecture 09_Animation System_Advanced Animation Technology.pdf>)
 
 Video:
 
 - []()
 - []()
 
-Notes: [](./Notes)
+Notes: [4. Animation](<./Notes/4. Animation.md>)
 
 
 
@@ -69,25 +69,25 @@ Notes: [](./Notes)
 
 Lecture 10-11: 
 
-- [](./Lecture)
-- [](./Lecture)
+- [Lecture 10_Physics System_Basic Concepts](<./Lecture/Lecture 10_Physics System_Basic Concepts.pdf>)
+- [Lecture 11_Physics System_Applications](<./Lecture/Lecture 11_Physics System_Applications.pdf>)
 
 Video:
 
 - []()
 - []()
 
-Notes: [](./Notes)
+Notes: [5. Physics](<./Notes/5. Physics.md>)
 
 
 
 ## 6. Effects
 
-Lecture 12: [](./Lecture)
+Lecture 12: [Lecture 12_Effects](<./Lecture/Lecture 12_Effects.pdf>)
 
 Video: []()
 
-Notes: [](./Notes)
+Notes: [6. Effects](<./Notes/6. Effects.md>)
 
 
 
@@ -95,15 +95,15 @@ Notes: [](./Notes)
 
 Lecture 13-14: 
 
-- [](./Lecture)
-- [](./Lecture)
+- [Lecture 13_Tool Chains](<./Lecture/Lecture 13_Tool Chains.pdf>)
+- [Lecture 14_Tool Chains_Applications & Advanced Topics](<./Lecture/Lecture 14_Tool Chains_Applications & Advanced Topics.pdf>)
 
 Video:
 
 - []()
 - []()
 
-Notes: [](./Notes)
+Notes: [7. Tool Chains](<./Notes/7. Tool Chains.md>)
 
 
 
@@ -111,9 +111,9 @@ Notes: [](./Notes)
 
 Lecture 15-17: 
 
-- [](./Lecture)
-- [](./Lecture)
-- [](./Lecture)
+- [Lecture 15_Gameplay System_Gameplay Complexity and Building Blocks](<./Lecture/Lecture 15_Gameplay System_Gameplay Complexity and Building Blocks.pdf>)
+- [Lecture 16_Gameplay Systems_Basic Artificial Intelligence](<./Lecture/Lecture 16_Gameplay Systems_Basic Artificial Intelligence.pdf>)
+- [Lecture 17_Gameplay Systems_Advanced Artificial Intelligence](<./Lecture/Lecture 17_Gameplay Systems_Advanced Artificial Intelligence.pdf>)
 
 Video:
 
@@ -121,53 +121,53 @@ Video:
 - []()
 - []()
 
-Notes: [](./Notes)
+Notes: [8. Gameplay](<./Notes/8. Gameplay.md>)
 
 
 
-## 9. Online Gaming
+## 9. Networking
 
 Lecture 18-19: 
 
-- [](./Lecture)
-- [](./Lecture)
+- [Lecture 18_Online Gaming Architecture_Fundamentals](<./Lecture/Lecture 18_Online Gaming Architecture_Fundamentals.pdf>)
+- [Lecture 19_Online Gaming Architecture_Advanced Topics](<./Lecture/Lecture 19_Online Gaming Architecture_Advanced Topics.pdf>)
 
 Video:
 
 - []()
 - []()
 
-Notes: [](./Notes)
+Notes: [9. Networking](<./Notes/9. Networking.md>)
 
 
 
 ## 10. Data-Oriented Programming and Job System
 
-Lecture 20: [](./Lecture)
+Lecture 20: [Lecture 20_Data-Oriented Programming and Job System_Advance Topics](<./Lecture/Lecture 20_Data-Oriented Programming and Job System_Advance Topics.pdf>)
 
 Video: []()
 
-Notes: [](./Notes)
+Notes: [10. Data-Oriented Programming and Job System](<./Notes/10. Data-Oriented Programming and Job System.md>)
 
 
 
 ## 11. Dynamic Global Illumination and Lumen
 
-Lecture 21: [](./Lecture)
+Lecture 21: [Lecture 21_Dynamic Global Illumination and Lumen_Advanced Topics](<./Lecture/Lecture 21_Dynamic Global Illumination and Lumen_Advanced Topics.pdf>)
 
 Video: []()
 
-Notes: [](./Notes)
+Notes: [11. Dynamic Global Illumination and Lumen](<./Notes/11. Dynamic Global Illumination and Lumen.md>)
 
 
 
 ## 12. GPU-Driven Geometry Pipeline and Nanite
 
-Lecture 22: [](./Lecture)
+Lecture 22: [Lecture 22_GPU-Driven Geometry Pipeline and Nanite_Advanced Topics](<./Lecture/Lecture 22_GPU-Driven Geometry Pipeline and Nanite_Advanced Topics.pdf>)
 
 Video: []()
 
-Notes: [](./Notes)
+Notes: [12. GPU-Driven Geometry Pipeline and Nanite](<./Notes/12. GPU-Driven Geometry Pipeline and Nanite.md>)
 
 
 
