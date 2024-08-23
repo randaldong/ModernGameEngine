@@ -3,81 +3,171 @@ Learning notes for GAMES 104.
 
 
 
-## 1. Overview of Game Engine
+## 1. Introduction
 
-Lecture 1
+Lecture 1: [Lecture 01_Overview of Game Engine](./Lecture/Lecture 01_Overview of Game Engine.pdf)
 
+Video: [01.游戏引擎导论 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1oU4y1R7Km/?spm_id_from=333.337.search-card.all.click&vd_source=042a9ec4eda603493ce4ec381912c4e7)
 
-
-## 2. Layered Architecture of Game Engine
-
-Lecture 2
+Notes: [1. Introduction](./Notes/1. Introduction.md)
 
 
 
-## 3. How to Build a Game World
+## 2. Basic Elements
 
-Lecture 3
+Lecture 2-3:
 
+- [Lecture 02_Layered Architecture of Game Engine](./Lecture/Lecture 02_Layered Architecture of Game Engine.pdf)
+- [Lecture 03_How to Build a Game World](./Lecture/Lecture 03_How to Build a Game World.pdf)
 
+Video:
 
-## 4. Rendering on Game Engine
+- [02.引擎架构分层 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV12Z4y1B7th/?spm_id_from=pageDriver&vd_source=042a9ec4eda603493ce4ec381912c4e7)
+- [03.如何构建游戏世界 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1YY4y1p74P/?spm_id_from=333.788&vd_source=042a9ec4eda603493ce4ec381912c4e7)
 
-Lecture 4-7
-
-
-
-## 5. Animation System
-
-Lecture 8-9
+Notes: [2. Basic Elements](./Notes/2. Basic Elements.md)
 
 
 
-## 6. Physics System
+## 3. Rendering
 
-Lecture 10-11
+Lecture 4-7: 
 
+- [](./Lecture)
+- [](./Lecture)
+- [](./Lecture)
+- [](./Lecture)
 
+Video:
 
-## 7. Effects
+- []()
+- []()
+- []()
+- []()
 
-Lecture 12
-
-
-
-## 8. Tool Chains
-
-Lecture 13-14
-
-
-
-## 9. Gameplay System
-
-Lecture 15-17
+Notes: [](./Notes)
 
 
 
-## 10. Online Gaming Architecture
+## 4. Animation
 
-Lecture 18-19
+Lecture 8-9: 
 
+- [](./Lecture)
+- [](./Lecture)
 
+Video:
 
-## 11. Data-Oriented Programming and Job System
+- []()
+- []()
 
-Lecture 20
-
-
-
-## 12. Dynamic Global Illumination and Lumen
-
-Lecture 21
+Notes: [](./Notes)
 
 
 
-## 13. GPU-Driven Geometry Pipeline and Nanite
+## 5. Physics
 
-Lecture 22
+Lecture 10-11: 
+
+- [](./Lecture)
+- [](./Lecture)
+
+Video:
+
+- []()
+- []()
+
+Notes: [](./Notes)
+
+
+
+## 6. Effects
+
+Lecture 12: [](./Lecture)
+
+Video: []()
+
+Notes: [](./Notes)
+
+
+
+## 7. Tool Chains
+
+Lecture 13-14: 
+
+- [](./Lecture)
+- [](./Lecture)
+
+Video:
+
+- []()
+- []()
+
+Notes: [](./Notes)
+
+
+
+## 8. Gameplay
+
+Lecture 15-17: 
+
+- [](./Lecture)
+- [](./Lecture)
+- [](./Lecture)
+
+Video:
+
+- []()
+- []()
+- []()
+
+Notes: [](./Notes)
+
+
+
+## 9. Online Gaming
+
+Lecture 18-19: 
+
+- [](./Lecture)
+- [](./Lecture)
+
+Video:
+
+- []()
+- []()
+
+Notes: [](./Notes)
+
+
+
+## 10. Data-Oriented Programming and Job System
+
+Lecture 20: [](./Lecture)
+
+Video: []()
+
+Notes: [](./Notes)
+
+
+
+## 11. Dynamic Global Illumination and Lumen
+
+Lecture 21: [](./Lecture)
+
+Video: []()
+
+Notes: [](./Notes)
+
+
+
+## 12. GPU-Driven Geometry Pipeline and Nanite
+
+Lecture 22: [](./Lecture)
+
+Video: []()
+
+Notes: [](./Notes)
 
 
 
