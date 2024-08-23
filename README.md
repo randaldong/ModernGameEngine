@@ -189,7 +189,7 @@ Lectures, homework, extra materials are all included in the repo.
 
   Also included in this repo.
 
-  ![](Game Engine Midmap.png)
+  ![](<./Game Engine Midmap.png>)
 
 - Piccolo Community: https://www.piccoloengine.com/topics/node/feed/all
 - Piccolo Engine GitHub: https://github.com/BoomingTech/Piccolo
