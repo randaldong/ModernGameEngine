@@ -33,17 +33,18 @@ Notes: [2. Basic Elements](<./Notes/2. Basic Elements.md>)
 
 Lecture 4-7: 
 
-- [Lecture 04_Rendering on Game Engine_Basics of Game Rendering](<./Lecture/Lecture 04_Rendering on Game Engine_Basics of Game Rendering.pdf>)
-- [Lecture 05_Rendering on Game Engine_Lighting, Materials and Shaders](<./Lecture/Lecture 05_Rendering on Game Engine_Lighting, Materials and Shaders.pdf>)
-- [Lecture 06_Rendering on Game Engine_The Challenges and Fun of Rendering the Beautiful Mother Nature](<./Lecture/Lecture 06_Rendering on Game Engine_The Challenges and Fun of Rendering the Beautiful Mother Nature.pdf>)
-- [Lecture 07_Rendering on Game Engine_Render Pipeline, Post-process and Everything](<./Lecture/Lecture 07_Rendering on Game Engine_Render Pipeline, Post-process and Everything.pdf>)
+- [Lecture 04_Rendering in Game Engine_Basics of Game Rendering](<./Lecture/Lecture 04_Rendering in Game Engine_Basics of Game Rendering.pdf>)
+- [Lecture 05_Rendering in Game Engine_Lighting, Materials and Shaders](<./Lecture/Lecture 05_Rendering in Game Engine_Lighting, Materials and Shaders.pdf>)
+- [Lecture 06_Rendering in Game Engine_The Challenges and Fun of Rendering the Beautiful Mother Nature](<./Lecture/Lecture 06_Rendering in Game Engine_The Challenges and Fun of Rendering the Beautiful Mother Nature.pdf>)
+- [Lecture 07_Rendering in Game Engine_Render Pipeline, Post-process and Everything](<./Lecture/Lecture 07_Rendering in Game Engine_Render Pipeline, Post-process and Everything.pdf>)
 
 Video:
 
-- []()
-- []()
-- []()
-- []()
+- [04.游戏引擎中的渲染实践 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV14r4y1p7tt/?spm_id_from=pageDriver&vd_source=042a9ec4eda603493ce4ec381912c4e7)
+- [05.渲染中光和材质的数学魔法 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1J3411n7WT/?spm_id_from=333.788&vd_source=042a9ec4eda603493ce4ec381912c4e7)
+- [06.游戏中地形大气和云的渲染(上) | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1au411y7Fq/?spm_id_from=333.788&vd_source=042a9ec4eda603493ce4ec381912c4e7)
+- [06.游戏中地形大气和云的渲染(下) | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1i3411T7QL/?spm_id_from=333.788&vd_source=042a9ec4eda603493ce4ec381912c4e7)
+- [07.游戏中渲染管线、后处理和其他的一切 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1kY411P7QM/?spm_id_from=333.788&vd_source=042a9ec4eda603493ce4ec381912c4e7)
 
 Notes: [3. Rendering](<./Notes/3. Rendering.md>)
 
