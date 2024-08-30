@@ -59,8 +59,9 @@ Lecture 8-9:
 
 Video:
 
-- []()
-- []()
+- [08.游戏引擎的动画技术基础(上) | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1jr4y1t7WR/?spm_id_from=333.788&vd_source=042a9ec4eda603493ce4ec381912c4e7)
+- [08.游戏引擎的动画技术基础(下) | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1fF411j7hA/?spm_id_from=333.788&vd_source=042a9ec4eda603493ce4ec381912c4e7)
+- [09.高级动画技术：动画树、IK和表情动画 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1pY411F7pA/?spm_id_from=333.788&vd_source=042a9ec4eda603493ce4ec381912c4e7)
 
 Notes: [4. Animation](<./Notes/4. Animation.md>)
 
